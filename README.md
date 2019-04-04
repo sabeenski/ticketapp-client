@@ -1,6 +1,7 @@
 ## Introduction
 This project was built as a part of the Codaisseur final individual assignment.
 The project uses React & Redux on the front-end and connects to the back-end, which uses TypeScript and Koa.
+This is an MVP that is focused in the functionality of the app based on the provided user stories. 
 
 ## Purpose
 The purpose of this app is to provide a market place for selling tickets to events in Amsterdam.
